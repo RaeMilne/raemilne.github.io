@@ -1,0 +1,26 @@
+
+html {
+	font-family: "abril-text", serif;
+	font-size: 18px;
+	line-height: 28px;
+	max-width: 640px;
+	padding: 3em;
+}
+
+h1 {
+	font-family: "abril-fatface", serif;
+	font-style: italic;
+	font-size: 36px;
+}
+
+h2 {
+	font-family: "abril-text", serif;
+	font-weight: 400;
+	font-size: 26px;
+	line-height: 38px;
+}
+
+a {
+	color: #0099bb;
+	text-decoration: none;
+}
