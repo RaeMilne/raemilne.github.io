@@ -17,11 +17,11 @@ body {
 
 	/* Enable ligatures */
 
-	  font-kerning: normal;
-	  -moz-font-feature-settings: "kern", "liga", "clig", "calt";
-	  -ms-font-feature-settings: "kern", "liga", "clig", "calt";
-	  -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
-	  font-feature-settings: "kern", "liga", "clig", "calt";
+	font-kerning: normal;
+	-moz-font-feature-settings: "kern", "liga", "clig", "calt";
+	-ms-font-feature-settings: "kern", "liga", "clig", "calt";
+	-webkit-font-feature-settings: "kern", "liga", "clig", "calt";
+	font-feature-settings: "kern", "liga", "clig", "calt";
 }
 
 
@@ -47,9 +47,9 @@ a:hover {
 	color: #a20057;
 }
 
- hr { margin: 2.5em 0 2.5em 0; }
+hr { margin: 2.5em 0 2.5em 0; }
 
- /* Tablets and Desktop */
+/* Tablets and Desktop */
 @media (min-width: 48em) {
 
 	.main-content {
@@ -60,7 +60,7 @@ a:hover {
 
 	h1 {
 		font-size: 4em;
-		margin-bottom: 0.5em;
+		margin-bottom: 0.4em;
 	}
 
 	p#big {
